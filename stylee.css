@@ -1,0 +1,29 @@
+nav
+{
+    background-color:rgba(240, 255, 255, 0.521);
+}
+form
+{
+    margin-left: 45vw;
+}
+.container
+{
+    margin-top: 20px;
+}
+.btn-2,.btn-1
+{
+    
+    background-color: #bad2d5;
+    border-radius: 5px;
+    border: 1px solid grey;
+
+}
+footer
+{
+    height: 10vh;
+    background-color:rgba(240, 255, 255, 0.521);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
